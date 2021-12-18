@@ -1,27 +1,31 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY RIMU GANZ
 
-*さ BANK*
+*🏧 BANK*
+
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
-		
-*さ E-MONEY*
-1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
-2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
-3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ gak tau :v
+2. BCA 
+	ㅁ gak tau :v
+3. BNI 
+	ㅁ gak tau :v
+4. PERMATA
+	ㅁ gak tau :v
+	
+*💰 E-MONEY*
 
-*さ PULSA*
-1. SMARTFREN
-	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+1. GOPAY
+	ㅁ -
+2. OVO
+	ㅁ -
+3. DANA
+	ㅁ 0851 5654 5832
+	
+Semuanya atas nama RIMU
+
+*📲 PULSA*
+
+085156545832
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
