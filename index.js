@@ -195,8 +195,8 @@ let _diamond11 = '⦿ M.MINGGUAN';      let diamond11 = 'Rp 30.000,00';
 let _diamond12 = '⦿ M.BULANAN';         let diamond12 = 'Rp 110.000,00';
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
+baper = '© 𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳'
+apiku = 'gak ada'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
@@ -1658,7 +1658,7 @@ let papakpo = [{
 											},
 										"type": "RESPONSE"
 										}]
-								sendButLocation(from, userProcfile , `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w\n\n${botname}™© | By ${ownername}`,pp_userz, papakpo, {contextInfo: { mentionedJid: [sender]}})
+								sendButLocation(from, userProcfile , `NOTE ！\n𝐉𝐚𝐧𝐠𝐚𝐧 𝐒𝐩𝐚𝐦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐁𝐨𝐭!!\n\n${botname}™© | By ${ownername}`,pp_userz, papakpo, {contextInfo: { mentionedJid: [sender]}})
 }
 break
 	case 'verify': case 'daftar':
@@ -1735,7 +1735,7 @@ const buttons = [
 
 const btn = {
     contentText: ini_anu ,
-    footerText: `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w\n\n${tampilTanggal}\n${tampilWaktu}\n\n© ${creator}`,
+    footerText: `NOTE ！\n𝐉𝐚𝐧𝐠𝐚𝐧 𝐒𝐩𝐚𝐦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐁𝐨𝐭!!\n\n${tampilTanggal}\n${tampilWaktu}\n\n© ${creator}`,
     buttons: buttons,
     headerType: 4,
     imageMessage: bacotlu.message.imageMessage
@@ -1865,7 +1865,7 @@ break
 											},
 										"type": "RESPONSE"
 										}]
-								sendButLocation(from, allmenu(prefix, wita, wit, ucapannya2 , timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat), `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w\n\n${botname}™© | By ${ownername}`,pp_userz, papao, {})
+								sendButLocation(from, allmenu(prefix, wita, wit, ucapannya2 , timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat), `NOTE ！\n𝐉𝐚𝐧𝐠𝐚𝐧 𝐒𝐩𝐚𝐦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐁𝐨𝐭!!\n\n${botname}™© | By ${ownername}`,pp_userz, papao, {})
                 break
         case 'trigger':
 					var imgbb = require('imgbb-uploader')
